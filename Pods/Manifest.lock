@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cache (5.2.0)
+  - Hero (1.4.0)
+  - Kingfisher (5.4.0)
+  - SwiftLinkPreview (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cache
+  - Hero
+  - Kingfisher
+  - SwiftLinkPreview
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cache
+    - Hero
+    - Kingfisher
+    - SwiftLinkPreview
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  Kingfisher: 9c8f2cc6710334e06f32ba2b45e77707d5e2f0c9
+  SwiftLinkPreview: 7524438c43bf63a5041615713777c3d8f19a9a31
+
+PODFILE CHECKSUM: ae44e75ebf593df08b2379866f5bb8b3ea7c98da
+
+COCOAPODS: 1.6.1
